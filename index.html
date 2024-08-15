@@ -142,7 +142,7 @@
                               <a class="nav-link" href="index.html">Home</a>
                            </li>
                            <li class="nav-item">
-                              <a class="nav-link" href="about.html">About</a>
+                              <a class="nav-link" href="#sobre">Sobre</a>
                            </li>
                            <li class="nav-item">
                               <a class="nav-link" href="couple.html">Couple</a>
@@ -178,17 +178,28 @@
          </div>
       </div>
       <!-- about -->
-      <div class="about">
+      <div class="about" id="sobre">
          <div class="container">
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage text_align_center">
-                     <h2>About Us</h2>
+                     <h2>Conheça o Grupo</h2>
                   </div>
                </div>
-               <div class="col-md-10 offset-md-1">
-                  <div class="about_img text_align_center">
-                     <figure><img src="images/about.jpg" alt="#"/></figure>
+
+                     <div class="logos">
+                        <div class="logos-slide">
+                          <a href="https://www.boticario.com.br/"><img class="imgslider" src="./logos/boticario.png" /></a>
+                          <a href="https://www.quemdisseberenice.com.br/"><img class="imgslider" src="./logos/berenice.png" /></a>
+                          <a href="https://www.ouiparis.com/"><img class="imgslider" src="./logos/oui.png" /></a>
+                          <a href="https://www.usaflex.com.br/"><img class="imgslider" src="./logos/usaflex.png" /></a>
+                        </div>
+                      </div>
+                  
+                      <script>
+                        var copy = document.querySelector(".logos-slide").cloneNode(true);
+                        document.querySelector(".logos").appendChild(copy);
+                      </script>
                   </div>
                </div>
                <div class="col-md-8 offset-md-2">
@@ -200,8 +211,7 @@
                   </div>
                </div>
             </div>
-         </div>
-      </div>
+
       <!-- end about -->
       <!-- couple -->
       <div class="couple">

@@ -406,16 +406,18 @@ button {
 /** about section **/
 
 .about {
-     background: url(../images/about_bg.jpg);
-     background-size: 100% 100%;
+     /*background: url(../images/about_bg.jpg);*/
+     /*background-size: 100% 100%;*/
+     background-color: #e3ddcc;
      background-position: center;
      background-repeat: no-repeat;
-     padding-top: 90px;
+     padding-top: 150px;
+     padding-bottom: 80px;
      position: relative;
 }
 
 .about .titlepage h2 {
-     background: #021626;
+     background: #000000;
      padding: 15px 55px;
 }
 
@@ -451,7 +453,7 @@ button {
      background: #021626;
      padding-bottom: 80px;
      padding-top: 80px;
-     margin-top: 80px;
+     /*margin-top: 80px;*/
 }
 
 .couple .titlepage {
@@ -1008,4 +1010,69 @@ background:#021626db;
 
 .inner_page .about {
      padding-bottom:80px;
+}
+
+/** logo carousel **/
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f2f2f2;
+}
+
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+
+.logos {
+  overflow: hidden;
+  padding: 20px;
+  background: #e3ddcc;
+  white-space: nowrap;
+  position: relative;
+}
+
+.logos:before,
+.logos:after {
+  position: absolute;
+  top: 0;
+  width: 500px;
+  height: 100%;
+  content: "";
+  z-index: 2;
+}
+
+.logos:before {
+  left: 0;
+  background: linear-gradient(to left, rgba(255, 255, 255, 0), #e3ddcc);
+}
+
+.logos:after {
+  right: 0;
+  background: linear-gradient(to right, rgba(255, 255, 255, 0), #e3ddcc);
+}
+
+.logos:hover .logos-slide {
+  animation-play-state: paused;
+}
+
+.logos-slide {
+  display: inline-block;
+  animation: 10s slide infinite linear;
+}
+
+.logos-slide .imgslider {
+  height: 100px;
+  margin: 0px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
