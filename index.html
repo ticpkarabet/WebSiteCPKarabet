@@ -26,6 +26,7 @@
       <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" media="screen">
       <link rel="stylesheet" href="https://rawgit.com/LeshikJanz/libraries/master/Bootstrap/baguetteBox.min.css">
+      <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
       <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
@@ -120,19 +121,6 @@
                                   <button class="btn btn-primary  read_more whitebg" data-animation="animated bounceInLeft">Contact Us</button>
                               </div>
                            </div>
-                           <!-- fifithy slide -->
-                           <div class="carousel-item">
-                              <div class="carousel-caption d-md-block cuplle">
-                                  <h1 data-animation="animated bounceInLeft">
-                                    Conheça nossas franquias...
-                                  </h1>
-                                  <h3 data-animation="animated bounceInLeft">
-                                    Usaflex
-                                  </h3>
-                                  <button class="btn btn-primary  read_more whitebg" data-animation="animated bounceInLeft">Contact Us</button>
-                              </div>
-                           </div>
-                        </div>
                         <!-- controls -->
                         <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
                         <i class="fa fa-angle-left" aria-hidden="true"></i>
@@ -169,7 +157,7 @@
                               <a class="nav-link" href="#area">Área de Atuação</a>
                            </li>
                            <li class="nav-item">
-                              <a class="nav-link" href="#time">Nosso Time</a>
+                              <a class="nav-link" href="#time">Nossos Valores</a>
                            </li>
                            <li class="nav-item">
                               <a class="nav-link" href="Javascript:void(0)">Trabalhe Conosco</a>
@@ -200,7 +188,7 @@
                           <a href="https://www.boticario.com.br/"><img class="imgslider" src="./logos/boticario.png" /></a>
                           <a href="https://www.quemdisseberenice.com.br/"><img class="imgslider" src="./logos/berenice.png" /></a>
                           <a href="https://www.ouiparis.com/"><img class="imgslider" src="./logos/oui.png" /></a>
-                          <a href="https://www.usaflex.com.br/"><img class="imgslider" src="./logos/usaflex.png" /></a>
+                          <a href="https://www.eudora.com.br/"><img class="imgslider" src="./logos/eudora.png" /></a>
                         </div>
                       </div>
                   
@@ -212,9 +200,7 @@
                </div>
                <div class="col-md-8 offset-md-2">
                   <div class="about_img text_align_center">
-                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo <br>consequat. Duis aute irure dolor in reprehenderit in voluptate velit<br>
-                        esse Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse 
-                     </p>
+                     <p>Somos um grupo de  multifranquias que atua na indústria da beleza com uma das maiores marcas de cosméticos e perfumaria do Brasil: O Boticário. Há 42 anos no comércio, gerando oportunidades para transformar vidas, famílias e a sociedade como um todo! Contamos com um time de alta performance, autêntico e muito motivado a evoluir para multiplicar conquistas!</p>
                      <a class="read_more" href="about.html">Saiba Mais!</a>
                   </div>
                </div>
@@ -235,9 +221,7 @@
                   </div>
                </div>
                <div class="col-md-5">
-                  <div class="doi">
-                     <figure><img src="images/mul.png" alt="#"/></figure>
-                  </div>
+                  <div id="google-map" class="google-map"></div>
                </div>
             </div>
          </div>
@@ -249,7 +233,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Nosso Time</h2>
+                     <h2>Nossos Valores</h2>
                   </div>
                </div>
             </div>
@@ -474,5 +458,27 @@
           }
          }
       </script>
+
+<script>
+   function initialize() {
+       var mapOptions = {
+         center: new google.maps.LatLng(-20.8135591,-49.3889491), //Set your latitude, longitude
+         zoom: 19,
+         mapTypeId: google.maps.MapTypeId.SATELLITE,
+         scrollwheel: false
+       }
+
+       var map = new google.maps.Map(document.getElementById('google-map'), mapOptions); // get the div by id
+
+       var ctaLayer = new google.maps.KmlLayer({
+         url: 'karabet.kml' // Set the KML file
+       });
+
+       // attach the layer to the map
+       ctaLayer.setMap(map);
+   }
+   // load the map
+   google.maps.event.addDomListener(window, 'load', initialize);
+</script>
    </body>
 </html>

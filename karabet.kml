@@ -1,0 +1,1788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CP Karabet.kmz</name>
+	<StyleMap id="geocode">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode130</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode010">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode22</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="geocode101">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode19</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode16</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode12">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode120">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode13">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode130">
+		<IconStyle>
+			<scale>1.4</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode1300">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode14">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode1300</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode15">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode16">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode17">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode170">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode12</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode19">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode20">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode170</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="geocode200">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode15</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode80</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode21">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode22">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode30">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode40">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode41">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode40</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode010</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode42">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode17</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode21</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode30</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="geocode7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode42</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="geocode80">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<StyleMap id="geocode9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#geocode1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#geocode13</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_blue-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_blue-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_blue-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_pink-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_pink-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_pink-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blue-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_blue-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_grn-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_pink-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_blue-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_blue-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_grn-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/grn-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_pink-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/pink-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<color>00ffffff</color>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>CP Karabet</name>
+		<Folder>
+			<name>Escritório Sede</name>
+			<Placemark id="1.2.1">
+				<name>Escritório - BPCS 900346</name>
+				<address>R. Imperial, 158 - Vila Imperial, São José do Rio Preto - SP, 15015-610</address>
+				<snippet>R. Imperial, 158 - Vila Imperial, São José do Rio Preto - SP, 15015-610</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.813687500000004&lng=-49.388644299999996&fid=0x94bdad6657cca6f5:0xa5330417dbee3004&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode00</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.813687500000004&amp;lng=-49.388644299999996&amp;fid=0x94bdad6657cca6f5:0xa5330417dbee3004&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.38864429999999,-20.8136875,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.39273414837546,-20.81675488628159,0 -49.39273414837546,-20.81062011371841,0 -49.38455445162455,-20.81062011371841,0 -49.38455445162455,-20.81675488628159,0 -49.39273414837546,-20.81675488628159,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Lojas - O Boticário</name>
+			<Placemark id="1.2.1">
+				<name>Amigão - BPCS 14252</name>
+				<address>Av. Waldemar Alves, 1646 - Jardim Brasil, Araçatuba - SP, 16074-000</address>
+				<snippet>Av. Waldemar Alves, 1646 - Jardim Brasil, Araçatuba - SP, 16074-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.198711199999998&lng=-50.4567236&fid=0x949645b9a144e1f5:0x74d7c381891bab98&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.198711199999998&amp;lng=-50.4567236&amp;fid=0x949645b9a144e1f5:0x74d7c381891bab98&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-50.4567236,-21.1987112,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-50.46080289873908,-21.20177067405431,0 -50.46080289873908,-21.19565172594569,0 -50.45264430126092,-21.19565172594569,0 -50.45264430126092,-21.20177067405431,0 -50.46080289873908,-21.20177067405431,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>Amigão Miragaia - BPCS - 22375</name>
+				<description>Av. Euclides Miragaia, 1836, JD. Jussara, Birigui - SP</description>
+				<LookAt>
+					<longitude>-50.34548490431178</longitude>
+					<latitude>-21.30173808079812</latitude>
+					<altitude>0</altitude>
+					<heading>-0.2257476366052628</heading>
+					<tilt>30.00087686419454</tilt>
+					<range>195.2688644490451</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.34515746193593,-21.30168024895368,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Andradina Centro</name>
+				<address>R. Paes Leme, 749 - Vila Botega, Andradina - SP, 16900-010</address>
+				<snippet>R. Paes Leme, 749 - Vila Botega, Andradina - SP, 16900-010</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.888815899999997&lng=-51.3745988&fid=0x9490b5638ac512cd:0x8b1e343104be8300&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode5</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.888815899999997&amp;lng=-51.3745988&amp;fid=0x9490b5638ac512cd:0x8b1e343104be8300&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-51.37459880000001,-20.8888159,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-51.37868659766651,-20.89188174824988,0 -51.37868659766651,-20.88575005175012,0 -51.37051100233348,-20.88575005175012,0 -51.37051100233348,-20.89188174824988,0 -51.37868659766651,-20.89188174824988,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Andradina Shopping</name>
+				<address>Av. Guanabara, 2919 - Stella Maris, Andradina - SP, 16901-100</address>
+				<snippet>Av. Guanabara, 2919 - Stella Maris, Andradina - SP, 16901-100</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.8843475&lng=-51.370128699999995&fid=0x9490b567b1cce5ef:0x1213c05bb951f843&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.8843475&amp;lng=-51.370128699999995&amp;fid=0x9490b567b1cce5ef:0x1213c05bb951f843&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-51.3701287,-20.8843475,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-51.37421661829644,-20.88741343872234,0 -51.37421661829644,-20.88128156127766,0 -51.36604078170354,-20.88128156127766,0 -51.36604078170354,-20.88741343872234,0 -51.37421661829644,-20.88741343872234,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Araçatuba Centro - BPCS 5037</name>
+				<address>R. Mal. Deodoro, 38 - Centro, Araçatuba - SP, 16010-300</address>
+				<snippet>R. Mal. Deodoro, 38 - Centro, Araçatuba - SP, 16010-300</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.2061131&lng=-50.439823800000006&fid=0x949643e535d6b59f:0xa38668264a445fe3&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.2061131&amp;lng=-50.439823800000006&amp;fid=0x949643e535d6b59f:0xa38668264a445fe3&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-50.4398238,-21.2061131,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-50.44390290134465,-21.20917242600848,0 -50.44390290134465,-21.20305377399152,0 -50.43574469865536,-21.20305377399152,0 -50.43574469865536,-21.20917242600848,0 -50.44390290134465,-21.20917242600848,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Atacadão Catanduva - BPCS - 14268</name>
+				<address>Av. Comendador Antônio Stocco, 660 - 101 - Parque Joaquim Lopes, Catanduva - SP, 15800-610</address>
+				<snippet>Av. Comendador Antônio Stocco, 660 - 101 - Parque Joaquim Lopes, Catanduva - SP, 15800-610</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.155133299999996&lng=-48.9844478&fid=0x94bc1e3f15ccf49f:0x25160ca70d92a0a6&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.155133299999996&amp;lng=-48.9844478&amp;fid=0x94bc1e3f15ccf49f:0x25160ca70d92a0a6&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-48.9844478,-21.1551333,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-48.98852830503845,-21.15819367877884,0 -48.98852830503845,-21.15207292122116,0 -48.98036729496155,-21.15207292122116,0 -48.98036729496155,-21.15819367877884,0 -48.98852830503845,-21.15819367877884,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>Bandeirantes Birigui - BPCS - 22403</name>
+				<description>Av. Antonio da Silva Nunes, 837 - Sala10, JD. São Conrado, Birigui - SP</description>
+				<LookAt>
+					<longitude>-50.33228384541608</longitude>
+					<latitude>-21.27431432934839</latitude>
+					<altitude>0</altitude>
+					<heading>-0.003461233799427631</heading>
+					<tilt>14.43941907668427</tilt>
+					<range>530.240333727947</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.3326339940073,-21.27447275790748,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Barão - BPCS - 22404</name>
+				<description>R. Barão do Rio Branco, 431, Centro, Birigui - SP</description>
+				<LookAt>
+					<longitude>-50.34158468525536</longitude>
+					<latitude>-21.28986971627924</latitude>
+					<altitude>0</altitude>
+					<heading>-6.361109362927033e-15</heading>
+					<tilt>49.025707047079</tilt>
+					<range>102.5534152520816</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.34155007293748,-21.28979517336853,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.3.1">
+				<name>Carrefour - BPCS 12853</name>
+				<address>Av. Marginal Tancredo Neves, 900 - Parque Industrial, São José do Rio Preto - SP, 15076-630</address>
+				<phoneNumber>(11) 3004-2222</phoneNumber>
+				<snippet>Av. Marginal Tancredo Neves, 900 - Parque Industrial, São José do Rio Preto - SP, 15076-630</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.83663345&lng=-49.35324265&fid=0x94bc4d36ffd42b61:0x5eb166a8cdb98971&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>https://www.google.com/earth/rpc/search#listing_B</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.83663345&amp;lng=-49.35324265&amp;fid=0x94bc4d36ffd42b61:0x5eb166a8cdb98971&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-49.3557472,-20.8324222,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Castilho - BPCS - 22402</name>
+				<description>R. Osorio Junqueira, 604 - Centro - Castilho - SP</description>
+				<LookAt>
+					<longitude>-51.48971262822957</longitude>
+					<latitude>-20.87061861694686</latitude>
+					<altitude>0</altitude>
+					<heading>-1.304346762443005</heading>
+					<tilt>35.70642071489768</tilt>
+					<range>156.9196636789217</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.48940334042816,-20.87080694612223,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Container - BPCS - 20385</name>
+				<description>Av. Fortunato Ernesto Vetorasso, 990, JD Vetorasso, São José do Rio Preto - SP</description>
+				<LookAt>
+					<longitude>-49.41370188189845</longitude>
+					<latitude>-20.79536734914566</latitude>
+					<altitude>0</altitude>
+					<heading>-0.4098646093692401</heading>
+					<tilt>27.79855601665176</tilt>
+					<range>108.7561954235268</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-49.41362742955708,-20.79532325796406,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Eldorado - BPCS 11021</name>
+				<address>Av. Mirassolândia, 1710 - Conj. Hab. Costa do Sol, São José do Rio Preto - SP, 15045-000</address>
+				<snippet>Av. Mirassolândia, 1710 - Conj. Hab. Costa do Sol, São José do Rio Preto - SP, 15045-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.779766899999995&lng=-49.4010663&fid=0x94bdacf95910b8f7:0x374c079188b09a8c&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.779766899999995&amp;lng=-49.4010663&amp;fid=0x94bdacf95910b8f7:0x374c079188b09a8c&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.4010663,-20.7797669,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.40515705858316,-20.78283496893737,0 -49.40515705858316,-20.77669883106262,0 -49.39697554141684,-20.77669883106262,0 -49.39697554141684,-20.78283496893737,0 -49.40515705858316,-20.78283496893737,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Faria - BPCS 4701</name>
+				<address>Av. Brg. Faria Lima, 6363 - Nova Redentora, São José do Rio Preto - SP, 15090-000</address>
+				<snippet>Av. Brg. Faria Lima, 6363 - Nova Redentora, São José do Rio Preto - SP, 15090-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.828454699999998&lng=-49.3961408&fid=0x94bdb284aeb22ccd:0x30d63c5ba237ae4b&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode500</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.828454699999998&amp;lng=-49.3961408&amp;fid=0x94bdb284aeb22ccd:0x30d63c5ba237ae4b&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.3961408,-20.8284547,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.40023024262021,-20.83152178196515,0 -49.40023024262021,-20.82538761803484,0 -49.39205135737979,-20.82538761803484,0 -49.39205135737979,-20.83152178196515,0 -49.40023024262021,-20.83152178196515,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Fernandópolis - BPCS 13019</name>
+				<address>R. Brasil, 2056 - Centro, Fernandópolis - SP, 15600-000</address>
+				<snippet>R. Brasil, 2056 - Centro, Fernandópolis - SP, 15600-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.283472400000004&lng=-50.2478823&fid=0x9497f619d4120c8f:0x5b4ae408373ae4ea&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.283472400000004&amp;lng=-50.2478823&amp;fid=0x9497f619d4120c8f:0x5b4ae408373ae4ea&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-50.2478823,-20.2834724,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-50.2519863607754,-20.28655044558154,0 -50.2519863607754,-20.28039435441846,0 -50.24377823922461,-20.28039435441846,0 -50.24377823922461,-20.28655044558154,0 -50.2519863607754,-20.28655044558154,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Garden - BPCS - 4794</name>
+				<address>Av. Eng. José Nelson Machado, 280 - a80 a81 - Parque Iracema, Catanduva - SP, 15800-200</address>
+				<snippet>Av. Eng. José Nelson Machado, 280 - a80 a81 - Parque Iracema, Catanduva - SP, 15800-200</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.136167099999998&lng=-48.9687809&fid=0x94bc1e7b1331050d:0x3351df2dee0a3181&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode14</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.136167099999998&amp;lng=-48.9687809&amp;fid=0x94bc1e7b1331050d:0x3351df2dee0a3181&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-48.9687809,-21.1361671,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-48.97286193142364,-21.13922787356773,0 -48.97286193142364,-21.13310632643227,0 -48.96469986857636,-21.13310632643227,0 -48.96469986857636,-21.13922787356773,0 -48.97286193142364,-21.13922787356773,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>General - BPCS 5036</name>
+				<address>R. Gen. Glicério, 3111 - Centro, São José do Rio Preto - SP, 15015-400</address>
+				<snippet>R. Gen. Glicério, 3111 - Centro, São José do Rio Preto - SP, 15015-400</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.811570599999996&lng=-49.382154&fid=0x94bdad5cf1540001:0xd5c515fbca8a255a&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.811570599999996&amp;lng=-49.382154&amp;fid=0x94bdad5cf1540001:0xd5c515fbca8a255a&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.382154,-20.8115706,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.38624390320724,-20.81463802740543,0 -49.38624390320724,-20.80850317259457,0 -49.37806409679276,-20.80850317259457,0 -49.37806409679276,-20.81463802740543,0 -49.38624390320724,-20.81463802740543,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Guapiaçu - BPCS 14378</name>
+				<address>R. da Liberdade, 526 - CENTRO, Guapiaçu - SP, 15110-000</address>
+				<snippet>R. da Liberdade, 526 - CENTRO, Guapiaçu - SP, 15110-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.794776599999995&lng=-49.22092550000001&fid=0x94bc4f95024f61d3:0xc9e7b8403b21beb1&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.794776599999995&amp;lng=-49.22092550000001&amp;fid=0x94bc4f95024f61d3:0xc9e7b8403b21beb1&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.22092549999999,-20.7947766,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.22501585282791,-20.79784436462094,0 -49.22501585282791,-20.79170883537906,0 -49.21683514717208,-20.79170883537906,0 -49.21683514717208,-20.79784436462094,0 -49.22501585282791,-20.79784436462094,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>Guararapes - BPCS - 22374</name>
+				<description>R. Rio Branco, 983, Centro, Guararapes - SP</description>
+				<LookAt>
+					<longitude>-50.64326592744377</longitude>
+					<latitude>-21.25557813074989</latitude>
+					<altitude>0</altitude>
+					<heading>-0.1198071282578869</heading>
+					<tilt>29.92885399682637</tilt>
+					<range>513.9207167976491</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.64406292054865,-21.25528363628499,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Iguatemi - BPCS 17315</name>
+				<address>Av. Pres. Juscelino K. de Oliveira, 5000 - Res. Eco Village I, São José do Rio Preto - SP, 15093-340</address>
+				<phoneNumber>(17) 2786-0019</phoneNumber>
+				<snippet>Av. Pres. Juscelino K. de Oliveira, 5000 - Res. Eco Village I, São José do Rio Preto - SP, 15093-340</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.835299150000004&lng=-49.405737699999996&fid=0x94bdb3765c52ff99:0xdf16af1a4510fdcd&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#listing_A</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.835299150000004&amp;lng=-49.405737699999996&amp;fid=0x94bdb3765c52ff99:0xdf16af1a4510fdcd&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-49.41453,-20.8664635,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Jales - BPCS - 13018</name>
+				<description>Av. Francisco Jales, 2415, Centro, Jales - SP</description>
+				<LookAt>
+					<longitude>-50.54812699057322</longitude>
+					<latitude>-20.26981422173973</latitude>
+					<altitude>0</altitude>
+					<heading>-0.001201422109123463</heading>
+					<tilt>27.42328720279054</tilt>
+					<range>148.5611942396175</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.54802014602458,-20.26997715031863,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>LuxMall - BPCS 17612</name>
+				<address>Av. Nadima Damha, 1995 - Jardim Fuscaldo, São José do Rio Preto - SP, 15061-709</address>
+				<snippet>Av. Nadima Damha, 1995 - Jardim Fuscaldo, São José do Rio Preto - SP, 15061-709</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.8089813&lng=-49.3539246&fid=0x94bc52a7cae20f73:0xfde76da8f915dc55&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.8089813&amp;lng=-49.3539246&amp;fid=0x94bc52a7cae20f73:0xfde76da8f915dc55&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.35392460000001,-20.8089813,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.3580145690054,-20.81204877675404,0 -49.3580145690054,-20.80591382324596,0 -49.34983463099461,-20.80591382324596,0 -49.34983463099461,-20.81204877675404,0 -49.3580145690054,-20.81204877675404,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Max Atacado - Potirendaba - BPCS 12760</name>
+				<address>Av. Potirendaba, 2937 - Parque Q.ta das Paineiras, São José do Rio Preto - SP, 15080-480</address>
+				<phoneNumber>(17) 3512-6773</phoneNumber>
+				<snippet>Av. Potirendaba, 2937 - Parque Q.ta das Paineiras, São José do Rio Preto - SP, 15080-480</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.840116&lng=-49.370207699999995&fid=0x94bdb2c95944a46d:0x1cb5f98bdb2e5034&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#listing_A</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.840116&amp;lng=-49.370207699999995&amp;fid=0x94bdb2c95944a46d:0x1cb5f98bdb2e5034&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.37020769999999,-20.840116,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.37429682459582,-20.84318284344687,0 -49.37429682459582,-20.83704915655313,0 -49.36611857540417,-20.83704915655313,0 -49.36611857540417,-20.84318284344687,0 -49.37429682459582,-20.84318284344687,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Minas - BPCS - 4684</name>
+				<address>R. Minas Gerais, 312 - Centro, Catanduva - SP, 19640-015</address>
+				<snippet>R. Minas Gerais, 312 - Centro, Catanduva - SP, 19640-015</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.1374708&lng=-48.973324899999994&fid=0x94bc1e6458f874fd:0x317f04ee8c8125d4&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode200</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.1374708&amp;lng=-48.973324899999994&amp;fid=0x94bc1e6458f874fd:0x317f04ee8c8125d4&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-48.97332489999998,-21.1374708,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-48.9774058875582,-21.14053154066865,0 -48.9774058875582,-21.13441005933134,0 -48.96924391244178,-21.13441005933134,0 -48.96924391244178,-21.14053154066865,0 -48.9774058875582,-21.14053154066865,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>Mirandópolis - BPCS - 22406</name>
+				<description>R. 9 de Julho, 1067, Centro, Mirandópolis-SP</description>
+				<LookAt>
+					<longitude>-51.10359218407721</longitude>
+					<latitude>-21.13034611937535</latitude>
+					<altitude>0</altitude>
+					<heading>74.0479543551677</heading>
+					<tilt>45.00062912964533</tilt>
+					<range>105.0113721736182</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.10365273512834,-21.13034773913943,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Mirassol - BPCS - 4685</name>
+				<description>Praça Anísio José Moreira, 2111, Centro, Araçatuba - SP</description>
+				<LookAt>
+					<longitude>-49.5133959153048</longitude>
+					<latitude>-20.81817171552274</latitude>
+					<altitude>0</altitude>
+					<heading>-0.3744579562192727</heading>
+					<tilt>25.96448803264189</tilt>
+					<range>851.6277869082697</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-49.51287908734633,-20.81844890473184,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Muffato - BPCS 14736</name>
+				<address>Av. da Saudade, 1165 - Saudade, Araçatuba - SP, 16020-265</address>
+				<snippet>Av. da Saudade, 1165 - Saudade, Araçatuba - SP, 16020-265</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.2235102&lng=-50.443898700000005&fid=0x949643c4f80785d7:0x90a0bcd49f511cbb&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.2235102&amp;lng=-50.443898700000005&amp;fid=0x949643c4f80785d7:0x90a0bcd49f511cbb&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-50.4438987,-21.2235102,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-50.44797731882488,-21.22656916411866,0 -50.44797731882488,-21.22045123588134,0 -50.43982008117512,-21.22045123588134,0 -50.43982008117512,-21.22656916411866,0 -50.44797731882488,-21.22656916411866,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>Nova Granada - BPCS - 13017</name>
+				<description>Av. Adolfo Rodrigues, 905, Centro, Nova Granada - SP</description>
+				<LookAt>
+					<longitude>-49.3168620587965</longitude>
+					<latitude>-20.53119208391517</latitude>
+					<altitude>0</altitude>
+					<heading>-0.4501103210083715</heading>
+					<tilt>24.81988255587854</tilt>
+					<range>366.7218810433993</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-49.31704782579341,-20.53150076148577,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Plaza - BPCS 12901</name>
+				<address>Av. José Munia, 4775 - Jardim Redentor, São José do Rio Preto - SP, 15085-350</address>
+				<phoneNumber>(17) 3512-5460</phoneNumber>
+				<snippet>Av. José Munia, 4775 - Jardim Redentor, São José do Rio Preto - SP, 15085-350</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.8276139&lng=-49.386347549999996&fid=0x94bdb376d85b54b9:0xef22918f1d4f612a&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#listing_A</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.8276139&amp;lng=-49.386347549999996&amp;fid=0x94bdb376d85b54b9:0xef22918f1d4f612a&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-49.3869786,-20.8268618,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Potirendaba - BPCS 13016</name>
+				<address>Av. Conselheiro Rui Barbosa, 516, Potirendaba - SP, 15105-000</address>
+				<snippet>Av. Conselheiro Rui Barbosa, 516, Potirendaba - SP, 15105-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.044444400000003&lng=-49.3793539&fid=0x94bdcb5b40b543a3:0x1db30c873036fbe9&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.044444400000003&amp;lng=-49.3793539&amp;fid=0x94bdcb5b40b543a3:0x1db30c873036fbe9&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.3793539,-21.0444444,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.38343745368597,-21.04750706526448,0 -49.38343745368597,-21.04138173473552,0 -49.37527034631403,-21.04138173473552,0 -49.37527034631403,-21.04750706526448,0 -49.38343745368597,-21.04750706526448,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Praça - BPCS 6119</name>
+				<address>R. Bernardino de Campos, 2940 - Vila Maceno, São José do Rio Preto - SP, 15015-300</address>
+				<snippet>R. Bernardino de Campos, 2940 - Vila Maceno, São José do Rio Preto - SP, 15015-300</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.8107767&lng=-49.380507599999994&fid=0x94bdad5b62a45bd3:0xa7ad363c4aea5602&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.8107767&amp;lng=-49.380507599999994&amp;fid=0x94bdad5b62a45bd3:0xa7ad363c4aea5602&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.38050759999999,-20.8107767,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.38459752513995,-20.81384414385496,0 -49.38459752513995,-20.80770925614503,0 -49.37641767486004,-20.80770925614503,0 -49.37641767486004,-20.81384414385496,0 -49.38459752513995,-20.81384414385496,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Praça Nova Araçatuba - BPCS 18591</name>
+				<address>Rua Carlos Pereira da Silva, 6000 - Jardim Guanabara, Araçatuba - SP, 16026-035</address>
+				<phoneNumber>(18) 3600-8389</phoneNumber>
+				<snippet>Rua Carlos Pereira da Silva, 6000 - Jardim Guanabara, Araçatuba - SP, 16026-035</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.215615449999998&lng=-50.46791375&fid=0x94964382f92f7565:0xa863fe43e636f950&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#listing_A</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.215615449999998&amp;lng=-50.46791375&amp;fid=0x94964382f92f7565:0xa863fe43e636f950&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-50.4699039,-21.2121997,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Proença Catanduva - BPCS - 13904</name>
+				<address>Av. Benedito Zancaner, 1705 - Jardim do Lago, Catanduva - SP, 15801-440</address>
+				<phoneNumber>(17) 3531-2700</phoneNumber>
+				<snippet>Av. Benedito Zancaner, 1705 - Jardim do Lago, Catanduva - SP, 15801-440</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.134300200000002&lng=-48.987873&fid=0x94bc1ef630d5e553:0x646d773022f2e546&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#listing_A</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.134300200000002&amp;lng=-48.987873&amp;fid=0x94bc1ef630d5e553:0x646d773022f2e546&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-48.9880191,-21.1341277,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-48.99210017528907,-21.1371885064668,0 -48.99210017528907,-21.1310668935332,0 -48.98393802471092,-21.1310668935332,0 -48.98393802471092,-21.1371885064668,0 -48.99210017528907,-21.1371885064668,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>Rondon ATA - BPCS - 13015</name>
+				<description>Av. Odorinho Perenha, 1515 - Box15 - Bairro Umuarana, Araçatuba - SP</description>
+				<LookAt>
+					<longitude>-50.41047746190745</longitude>
+					<latitude>-21.21843666759857</latitude>
+					<altitude>0</altitude>
+					<heading>-0.2023603900590933</heading>
+					<tilt>30.00315910925239</tilt>
+					<range>703.3466980086652</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.41079840540478,-21.21817113489687,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Saudades - BPCS - 22373</name>
+				<description>R. Saudades, 526, Centro, Birigui - SP</description>
+				<LookAt>
+					<longitude>-50.34292123837663</longitude>
+					<latitude>-21.29137484622052</latitude>
+					<altitude>0</altitude>
+					<heading>-0.226702789958525</heading>
+					<tilt>30.00037180139039</tilt>
+					<range>81.50890761648007</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.34296030133362,-21.29131463568578,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Shopping Cidade Norte - BPCS 13922</name>
+				<address>Av. Alfredo Antônio de Oliveira, 2077 - Jardim Planalto, São José do Rio Preto - SP, 15046-355</address>
+				<snippet>Av. Alfredo Antônio de Oliveira, 2077 - Jardim Planalto, São José do Rio Preto - SP, 15046-355</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.76969125&lng=-49.386334749999996&fid=0x94bdace99c85b0f3:0xdec978f2ae3f66ff&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#listing_A</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.76969125&amp;lng=-49.386334749999996&amp;fid=0x94bdace99c85b0f3:0xdec978f2ae3f66ff&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.3862604,-20.7696496,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.38830592185423,-20.77118374139068,0 -49.38830592185423,-20.76811545860932,0 -49.38421487814576,-20.76811545860932,0 -49.38421487814576,-20.77118374139068,0 -49.38830592185423,-20.77118374139068,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>Shopping Fernandópolis - BPCS - 12524</name>
+				<description>Av. Liteérico Grecco, 600 - QS Q30, VL. São Fernando, Fernandópolis - SP</description>
+				<LookAt>
+					<longitude>-50.23328614989972</longitude>
+					<latitude>-20.27174408994426</latitude>
+					<altitude>0</altitude>
+					<heading>-0.128734812874979</heading>
+					<tilt>19.44316508327949</tilt>
+					<range>135.0197690340549</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.23331883665341,-20.27167175058399,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Tanabi - BPCS 5783</name>
+				<address>R. Cel. Militão, 572 - Centro, Tanabi - SP, 15170-000</address>
+				<snippet>R. Cel. Militão, 572 - Centro, Tanabi - SP, 15170-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.624110500000004&lng=-49.6490053&fid=0x94bd0c55c023c805:0xfb3bfc229ead1cc0&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode41</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.624110500000004&amp;lng=-49.6490053&amp;fid=0x94bd0c55c023c805:0xfb3bfc229ead1cc0&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.6490053,-20.6241105,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.65310026966463,-20.62718172724847,0 -49.65310026966463,-20.62103927275153,0 -49.64491033033537,-20.62103927275153,0 -49.64491033033537,-20.62718172724847,0 -49.65310026966463,-20.62718172724847,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>TôQueTô Tabapuã - BPCS - 13123</name>
+				<description>R. Dr. Arthur Ortemblad, 1232, Centro, Tabapuã - SP</description>
+				<LookAt>
+					<longitude>-49.02929497430256</longitude>
+					<latitude>-20.96198993051401</latitude>
+					<altitude>0</altitude>
+					<heading>-0.5554623291933316</heading>
+					<tilt>30.00069981775488</tilt>
+					<range>155.9054145023755</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-49.02912737075227,-20.96218163003665,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Proença Ilha Solteira</name>
+				<description>Av. Atlântica, 1775 - Ilha Solteira</description>
+				<LookAt>
+					<longitude>-51.33932305779826</longitude>
+					<latitude>-20.43557553512597</latitude>
+					<altitude>0</altitude>
+					<heading>-1.006197454846547</heading>
+					<tilt>27.79192746068534</tilt>
+					<range>411.0218609710341</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.3406337165868,-20.43536058786002,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ilha Solteira Centro</name>
+				<description>Av. Brasil Sul, 440, Centro,  Ilha Solteira - SP</description>
+				<LookAt>
+					<longitude>-51.34658630602481</longitude>
+					<latitude>-20.42997357187258</latitude>
+					<altitude>0</altitude>
+					<heading>-1.00332182746799</heading>
+					<tilt>22.65275839560394</tilt>
+					<range>140.2310336904183</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.34706662624738,-20.42989133453382,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Proença Pereira Barreto</name>
+				<description>Av. Cel. Jonas Alves de Melo, 3288, Pereira Barreto - SP</description>
+				<LookAt>
+					<longitude>-51.10091421878823</longitude>
+					<latitude>-20.63042194149721</latitude>
+					<altitude>0</altitude>
+					<heading>-1.090275123978717</heading>
+					<tilt>23.51571125346313</tilt>
+					<range>143.466507403896</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.10127240001063,-20.63034017080134,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Pereira Barreto Centro</name>
+				<description>Av. Brasil, 1154, Centro, Pereira Barreto - SP</description>
+				<LookAt>
+					<longitude>-51.11251429281602</longitude>
+					<latitude>-20.64571999221258</latitude>
+					<altitude>0</altitude>
+					<heading>-1.086197215009711</heading>
+					<tilt>30.00053320635873</tilt>
+					<range>118.3980787726325</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-51.11259059819858,-20.64575528658048,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Santa Fé Centro</name>
+				<description>R. Quatorze, 630, Centro, Santa Fé do Sul - SP</description>
+				<LookAt>
+					<longitude>-50.92771573663893</longitude>
+					<latitude>-20.2091380286915</latitude>
+					<altitude>0</altitude>
+					<heading>-1.160706343021172</heading>
+					<tilt>27.50353821593557</tilt>
+					<range>311.7127185841565</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.92791524888768,-20.20912372384689,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Proença Santa Fé</name>
+				<description>Av. Navarro de Andrade, 1918, Santa Fé do Sul - SP</description>
+				<LookAt>
+					<longitude>-50.92509690505226</longitude>
+					<latitude>-20.19725327565709</latitude>
+					<altitude>0</altitude>
+					<heading>-1.165664833167447</heading>
+					<tilt>30.00083142033567</tilt>
+					<range>185.0878126558721</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.92532259961014,-20.19738628844569,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Palmeira D&apos;Oeste</name>
+				<description>R. Brasil, 4624, Centro, Palmeira D&apos;Oeste - SP</description>
+				<LookAt>
+					<longitude>-50.76240531836157</longitude>
+					<latitude>-20.41864306142086</latitude>
+					<altitude>0</altitude>
+					<heading>-1.221013284012176</heading>
+					<tilt>30.00073021122066</tilt>
+					<range>162.3216236895339</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.76241784325448,-20.41878560141784,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Auriflama Centro</name>
+				<description>R. João Pacheco de Lima, 5215, Centro, Auriflama - SP</description>
+				<LookAt>
+					<longitude>-50.55386944990572</longitude>
+					<latitude>-20.68638356511292</latitude>
+					<altitude>0</altitude>
+					<heading>-1.321396674255065</heading>
+					<tilt>30.00543693326477</tilt>
+					<range>1210.325196230698</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.55362457037683,-20.68748300416149,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>General Salgado</name>
+				<description>Av. Diogo Garcia Carmona, 1103, Centro, General Salgado - SP</description>
+				<LookAt>
+					<longitude>-50.36125904787681</longitude>
+					<latitude>-20.64678582424906</latitude>
+					<altitude>0</altitude>
+					<heading>-1.389351255502766</heading>
+					<tilt>30.00134450457004</tilt>
+					<range>299.5468403193403</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#m_ylw-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.36161936762642,-20.64705286792431,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Lojas - Quem Disse Berenice?</name>
+			<Placemark id="1.2.1">
+				<name>Faria - 910152</name>
+				<address>Av. Brg. Faria Lima, 6363 - Jardim Francisco Fernandes, São José do Rio Preto - SP, 15090-000</address>
+				<snippet>Av. Brg. Faria Lima, 6363 - Jardim Francisco Fernandes, São José do Rio Preto - SP, 15090-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.8363275&lng=-49.3992875&fid=0x94bdb28f1c042197:0xe729f49618032e37&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode8</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.8363275&amp;lng=-49.3992875&amp;fid=0x94bdb28f1c042197:0xe729f49618032e37&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.3992875,-20.8363275,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.4033767342594,-20.83939442569455,0 -49.4033767342594,-20.83326057430545,0 -49.3951982657406,-20.83326057430545,0 -49.3951982657406,-20.83939442569455,0 -49.4033767342594,-20.83939442569455,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Iguatemi - 910161</name>
+				<address>Av. Pres. Juscelino K. de Oliveira, 5000 - Res. Eco Village I, São José do Rio Preto - SP, 15093-340</address>
+				<phoneNumber>(17) 2786-0019</phoneNumber>
+				<snippet>Av. Pres. Juscelino K. de Oliveira, 5000 - Res. Eco Village I, São José do Rio Preto - SP, 15093-340</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.867482950000003&lng=-49.414976149999994&fid=0x94bdb3765c52ff99:0xdf16af1a4510fdcd&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#msn_pink-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.867482950000003&amp;lng=-49.414976149999994&amp;fid=0x94bdb3765c52ff99:0xdf16af1a4510fdcd&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-49.41453,-20.8664635,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Lojas - Usaflex</name>
+			<Placemark id="1.2.1">
+				<name>Usaflex – Prudenshopping</name>
+				<address>Av. Manoel Goulart, 2400 - Loja 513E - Vila Santa Helena, Pres. Prudente - SP, 19060-000</address>
+				<phoneNumber>(18) 3222-4577</phoneNumber>
+				<snippet>Av. Manoel Goulart, 2400 - Loja 513E - Vila Santa Helena, Pres. Prudente - SP, 19060-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-22.116761750000002&lng=-51.406668149999994&fid=0x9493f50cb6676d89:0x8dbb6d91841e124e&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#msn_grn-pushpin</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-22.116761750000002&amp;lng=-51.406668149999994&amp;fid=0x9493f50cb6676d89:0x8dbb6d91841e124e&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<Point>
+					<coordinates>-51.4054186,-22.1173224,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>Usaflex – Rio Preto Shopping</name>
+				<address>Av. Brg. Faria Lima, 6363 - Jardim Francisco Fernandes, São José do Rio Preto - SP, 15090-000</address>
+				<snippet>Av. Brg. Faria Lima, 6363 - Jardim Francisco Fernandes, São José do Rio Preto - SP, 15090-000</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.8363275&lng=-49.3992875&fid=0x94bdb28f1c042197:0xe729f49618032e37&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode10</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.8363275&amp;lng=-49.3992875&amp;fid=0x94bdb28f1c042197:0xe729f49618032e37&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.3992875,-20.8363275,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.4033767342594,-20.83939442569455,0 -49.4033767342594,-20.83326057430545,0 -49.3951982657406,-20.83326057430545,0 -49.3951982657406,-20.83939442569455,0 -49.4033767342594,-20.83939442569455,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Vendas Direta - O Boticário</name>
+			<Placemark id="1.2.1">
+				<name>VD Araçatuba - BPCS  14311</name>
+				<address>R. José Pedro dos Santos, 74 - Centro, Araçatuba - SP, 16010-530</address>
+				<snippet>R. José Pedro dos Santos, 74 - Centro, Araçatuba - SP, 16010-530</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.2084819&lng=-50.4470083&fid=0x949643edf21908c9:0x3bbd7fe09c84eabf&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode18</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.2084819&amp;lng=-50.4470083&amp;fid=0x949643edf21908c9:0x3bbd7fe09c84eabf&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-50.4470083,-21.2084819,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-50.4510873355465,-21.21154117665986,0 -50.4510873355465,-21.20542262334013,0 -50.4429292644535,-21.20542262334013,0 -50.4429292644535,-21.21154117665986,0 -50.4510873355465,-21.21154117665986,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>VD Auriflama</name>
+				<description>R. João Pacheco de Lima, 6051, Sala01, Centro, Auriflama - SP</description>
+				<LookAt>
+					<longitude>-50.55404242923456</longitude>
+					<latitude>-20.68721164334663</latitude>
+					<altitude>0</altitude>
+					<heading>-1.319929436333137</heading>
+					<tilt>30.00062793516212</tilt>
+					<range>139.6041943082535</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blue-pushpin0</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.55431648009069,-20.68740166299143,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VD Birigui - BPCS 23015</name>
+				<description>R. São José, 259, Centro, Birigui - SP</description>
+				<LookAt>
+					<longitude>-50.33952891312678</longitude>
+					<latitude>-21.29317148759882</latitude>
+					<altitude>0</altitude>
+					<heading>0.2713520401936156</heading>
+					<tilt>17.89542712358273</tilt>
+					<range>131.7554596886892</range>
+					<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+				</LookAt>
+				<styleUrl>#msn_blue-pushpin</styleUrl>
+				<Point>
+					<gx:drawOrder>1</gx:drawOrder>
+					<coordinates>-50.33973746322761,-21.2930820218911,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>VD Catanduva - BPCS 13865</name>
+				<address>Av. São Vicente de Paulo, 510 - Parque Iracema, Catanduva - SP, 15809-145</address>
+				<snippet>Av. São Vicente de Paulo, 510 - Parque Iracema, Catanduva - SP, 15809-145</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-21.145213299999998&lng=-48.9665592&fid=0x94bc1e73912c7ded:0xa6dcd5a2897e8f20&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode101</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-21.145213299999998&amp;lng=-48.9665592&amp;fid=0x94bc1e73912c7ded:0xa6dcd5a2897e8f20&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-48.9665592,-21.1452133,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-48.97063997919741,-21.14827388439805,0 -48.97063997919741,-21.14215271560195,0 -48.9624784208026,-21.14215271560195,0 -48.9624784208026,-21.14827388439805,0 -48.97063997919741,-21.14827388439805,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>VD Jales - BPCS  14222</name>
+				<address>R. Oito, 2241 - Centro, Jales - SP, 15704-132</address>
+				<snippet>R. Oito, 2241 - Centro, Jales - SP, 15704-132</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.272094&lng=-50.54918800000001&fid=0x94982f2c0d588945:0x58a2ecce321abf7b&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode9</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.272094&amp;lng=-50.54918800000001&amp;fid=0x94982f2c0d588945:0x58a2ecce321abf7b&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-50.549188,-20.272094,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-50.55329235686705,-20.27517226765029,0 -50.55329235686705,-20.26901573234971,0 -50.54508364313295,-20.26901573234971,0 -50.54508364313295,-20.27517226765029,0 -50.55329235686705,-20.27517226765029,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark id="1.2.1">
+				<name>VD Rio Preto - BPCS 13372</name>
+				<address>R. Penita, 2585 - Vila Nossa Sra. da Paz, São José do Rio Preto - SP, 15015-820</address>
+				<snippet>R. Penita, 2585 - Vila Nossa Sra. da Paz, São José do Rio Preto - SP, 15015-820</snippet>
+				<description><![CDATA[<!DOCTYPE html><html><head></head><body><script type="text/javascript">window.location.href="https://www.google.com/earth/rpc/entity?lat=-20.813711700000002&lng=-49.388964599999994&fid=0x94bdad6658f86507:0x9170567ea427e651&hl=pt-BR&gl=br&client=earth-client&cv=7.3.6.9796&useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)";</script></body></html>]]></description>
+				<styleUrl>#geocode20</styleUrl>
+				<ExtendedData>
+					<Data name="placepageUri">
+						<value>https://www.google.com/earth/rpc/entity?lat=-20.813711700000002&amp;lng=-49.388964599999994&amp;fid=0x94bdad6658f86507:0x9170567ea427e651&amp;hl=pt-BR&amp;gl=br&amp;client=earth-client&amp;cv=7.3.6.9796&amp;useragent=GoogleEarth/7.3.6.9796(Windows;Microsoft Windows (6.2.9200.0);pt;kml:2.2;client:Pro;type:default)</value>
+					</Data>
+				</ExtendedData>
+				<MultiGeometry>
+					<Point>
+						<coordinates>-49.38896459999999,-20.8137117,0</coordinates>
+					</Point>
+					<LinearRing>
+						<coordinates>
+							-49.39305444837544,-20.81677908628159,0 -49.39305444837544,-20.81064431371841,0 -49.38487475162454,-20.81064431371841,0 -49.38487475162454,-20.81677908628159,0 -49.39305444837544,-20.81677908628159,0 
+						</coordinates>
+					</LinearRing>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
