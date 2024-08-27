@@ -161,7 +161,7 @@ a,
 }
 
 img {
-     max-width: 100%;
+     max-width: 90%;
      height: auto;
 }
 
@@ -450,7 +450,7 @@ button {
 /** couple **/
 
 .couple {
-     background: #021626;
+     background: #377034;
      padding-bottom: 80px;
      padding-top: 80px;
      /*margin-top: 80px;*/
@@ -517,7 +517,7 @@ button {
 }
 
 .gallery .titlepage h2 {
-     background: url(../images/gajpg.jpg);
+     background-color: black;
      background-size: 100% 100%;
      background-repeat: no-repeat;
      background-position: center;
@@ -624,7 +624,7 @@ button {
 /** contact **/
 
 .contact {
-     background: #021626;
+     background: #000000;
      padding-bottom: 40px;
      padding-top: 78px;
 }
@@ -680,7 +680,7 @@ label {
      transition: ease-in all 0.5s;
      background-color: #fff;
      text-transform: uppercase;
-     color: #de0000;
+     color: #377034;
      max-width: 193px;
      width: 100%;
      display: block;
@@ -692,7 +692,7 @@ label {
 }
 
 .main_form .send_btn:hover {
-     background-color: #de0000;
+     background-color: #377034;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -709,7 +709,7 @@ label {
 /** footer **/
 
 .footer {
-     background: #021626;
+     background: #022612;
      text-align: center;
 }
 
@@ -751,7 +751,7 @@ label {
      transition: ease-in all 0.5s;
      background-color: #fff;
      text-transform: uppercase;
-     color: #de0000;
+     color: #377034;
      max-width: 98px;
      width: 100%;
      display: block;
@@ -762,7 +762,7 @@ label {
 }
 
 .subsci_btn:hover {
-     background-color: #de0000;
+     background-color: #377034;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -849,7 +849,7 @@ ul.social_icon li a i {
 
 ul.social_icon li a i:hover {
      color: #fff;
-     background: #de0000;
+     background: #377034;
      transition: ease-in all 0.5s;
 }
 
